@@ -5,7 +5,9 @@ My name is Willow Kim.
 - 💻 I've studied at ...
 + 모두의연구소 AIFFEL : 2020.12.28. ~ 2021.06.22
 - 🔭 I’m currently working on 
-+ 모두의 연구소 as 퍼실
++ 모두의 연구소 as 퍼실  
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwillowkim8&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
