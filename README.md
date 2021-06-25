@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Willow Kim.   
 - 🌱 I’m currently learning about AI and time series data.
-- 💬 My blog is [here](https://velog.io/@kiy7605)  
+- 💬 My blog is [here](https://willow826.tistory.com/)  
 - 💻 I've studied at ...  
 모두의연구소 AIFFEL : 2020.12.28. ~ 2021.06.22  
 - 🔭 I’m currently working on   
