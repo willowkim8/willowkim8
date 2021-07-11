@@ -4,6 +4,7 @@ My name is Willow Kim.
 - 💬 My blog is [here](https://willow826.tistory.com/)  
 - 💻 I've studied at ...  
 모두의연구소 AIFFEL : 2020.12.28. ~ 2021.06.22  
+
 - 🔭 I’m currently working on   
 모두의 연구소 as 퍼실    
 
