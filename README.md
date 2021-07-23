@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 My name is Willow Kim.   
 - 🌱 I’m currently learning about AI and time series data.
 - 💬 My blog is [here](https://willow826.tistory.com/)  
