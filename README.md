@@ -1,5 +1,7 @@
 ### Hi Everyone 👋
-My name is Willow Kim.   
+My English name is Willow Kim and Korean name is InYu KIM.  
+
+
 - 🌱 I’m currently learning about AI and time series data.
 - 💬 My blog is [here](https://willow826.tistory.com/)  
 - 💻 I've studied at ...  
