@@ -5,10 +5,10 @@ My English name is Willow Kim and Korean name is InYu KIM.
 - 🌱 I’m currently learning about AI and time series data.
 - 💬 My blog is [here](https://willow826.tistory.com/)  
 - 💻 I've studied at ...  
-모두의연구소 AIFFEL : 2020.12.28. ~ 2021.06.22  
+모두의연구소 AIFFEL : 2020.12.28 ~ 2021.06.22  
 
 - 🔭 I’m currently working on   
-모두의 연구소 as 퍼실    
+모두의 연구소 as 퍼실 : 2021.09.06 ~ 2022.03.04      
 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100050380724881)
 
